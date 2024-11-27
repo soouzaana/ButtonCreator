@@ -2,6 +2,7 @@
 
 <p><img src="img/tela.png"><br>
 Demonstração da tela
+
 ## Descrição
 
 O **Button Creator** é uma projeto web que permite aos usuários criar botões personalizados de forma interativa. Ele apresenta uma interface simples e você poderá ajustar diversas propriedades do botão, como texto, cor, tamanho e estilo, visualizar as alterações em tempo real e o código css do botão.
@@ -22,6 +23,7 @@ O **Button Creator** é uma projeto web que permite aos usuários criar botões 
 - **Curvatura da Borda  (border-radius)**: Ajuste o arredondamento das bordas do botão.
 - **Fonte**: Selecione a fonte para o texto do botão.
 - **Tamanho da Fonte**: Ajuste o tamanho da fonte do texto do botão.
+- **Local Storage**: permite que o usuário retome a estilização do botão mesmo após atualizar a página.
 
 ## Como Usar
 
